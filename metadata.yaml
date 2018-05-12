@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7500
     wikipedia: http://en.wikipedia.org/wiki/Matthew_Luckiesh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36297#Visual-IllusionsTheir-Causes-Characteristics-and-Applications
 gutenberg_issued: '2011-06-01'
 gutenberg_type: Text
 identifiers:
